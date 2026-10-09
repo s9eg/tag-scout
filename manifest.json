@@ -1,0 +1,10 @@
+{
+  "name": "TAG SCOUT — Xbox Tag Watchlist",
+  "short_name": "Tag Scout",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1017",
+  "theme_color": "#0b1017",
+  "description": "Local Xbox gamertag idea generator and watchlist."
+}
